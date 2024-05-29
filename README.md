@@ -1,2 +1,1 @@
-# repositorio-de-ejemplo
-un ejemplo 
+este es un ejemplo de como clonar un repositorio desde github a  mi pc
